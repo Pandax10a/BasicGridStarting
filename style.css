@@ -1,0 +1,10 @@
+header {
+    min-height: 100px;
+}
+
+main {
+    min-height: calc(100vh - 200px);
+}
+footer {
+    min-height: 100px;
+}
